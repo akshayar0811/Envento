@@ -1,0 +1,182 @@
+.divimg {
+  background-image: url("./images/mainimg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 555px;
+}
+li {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+ul {
+  list-style-type: none;
+  position: absolute;
+  top: 20px;
+  right: 10px;
+}
+ul li a {
+  font-size: 20px;
+  color: #00587a;
+  font-weight: 800;
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 6px;
+  background-color: #e7e7de;
+  opacity: 1;
+  transition: 0.6s ease;
+  text-decoration: none;
+}
+.space {
+  margin-right: 20px;
+}
+ul li a:hover {
+  opacity: 0.7;
+  text-decoration: none;
+  color: #0f0f0f;
+}
+
+.logo {
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.logoimg {
+  width: 90px;
+  float: left;
+  height: 90px;
+  border-radius: 50%;
+  background-color: #e7e7de;
+}
+.welcome {
+  margin-top: 220px;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+}
+.text1 {
+  font-size: 48px;
+  font-weight: 600;
+  color: #0f3057;
+}
+.text2 {
+  color: #0f3057;
+  font-size: 35px;
+  font-weight: 600;
+}
+.about {
+  background-image: linear-gradient(#00587a, #008891);
+}
+.know {
+  font-size: 40px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  color: #e7e7de;
+  text-align: center;
+  padding-top: 20px;
+}
+.quote {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  color: #e7e7de;
+  text-align: center;
+  padding-top: 5px;
+}
+.nelson {
+  font-style: italic;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  color: #e7e7de;
+  position: absolute;
+  top: 120px;
+  right: 20px;
+}
+.images {
+  padding-bottom: 40px;
+}
+.texts {
+  position: relative;
+}
+.lorem {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  color: #e7e7de;
+  margin-top: 40px;
+}
+.img1 {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
+.cards {
+  margin-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+.courses {
+  font-size: 40px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  color: #0f3057;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+.card-body {
+  background-color: #00587a;
+}
+.card-img-top {
+  height: 250px;
+}
+.card-title,
+.card-text {
+  color: #e7e7de;
+}
+.card-title {
+  font-size: 25px;
+  text-align: left;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #f8f8f8;
+  color: #008891;
+}
+.footer {
+  background-color: #0f3057;
+  padding-top: 20px;
+}
+.contactus {
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  color: #f8f8f8;
+}
+.ring {
+  font-size: 30px;
+  font-weight: 500;
+  padding-left: 20px;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  color: #f8f8f8;
+  position: relative;
+}
+.butn {
+  margin-top: 10px;
+  margin-left: 565px;
+  margin-bottom: 20px;
+}
+
+.pad {
+  margin-top: 20px;
+}
+.pad1 {
+  margin-top: 45px;
+}
