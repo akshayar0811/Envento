@@ -1,5 +1,5 @@
 .divimg {
-  background-image: url(".mainimg.jpeg");
+  background-image: url("mainimg.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 555px;
